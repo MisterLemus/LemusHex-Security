@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/screenshots/gui-v1-running.png" width="900">
-</p>
-
 <h1 align="center">⚡ LemusHex Security Suite ⚡</h1>
 
 <p align="center">
@@ -13,18 +9,29 @@ Native Windows Cybersecurity Toolkit built in Modern C++ + Qt6
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/gui-v1-running.png" width="900">
-</p> 
 
+![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus)
+![Qt6](https://img.shields.io/badge/Qt6-GUI-green?style=for-the-badge&logo=qt)
+![Windows](https://img.shields.io/badge/Windows-Native-blue?style=for-the-badge&logo=windows)
+![CMake](https://img.shields.io/badge/CMake-Build-red?style=for-the-badge&logo=cmake)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
+</p>
 
+<p align="center">
+  <img src="assets/screenshots/gui-v1-running.png" width="950">
+</p>
 
+---
 
-# LemusHex Security Suite
+## 🚀 Current Progress
 
-Professional Windows Hex Editor & Cybersecurity Analysis Toolkit built in C++.
-
-Suite profesional de edición hexadecimal y análisis de ciberseguridad para Windows desarrollada en C++.
+✅ Native desktop application running  
+✅ Qt6 GUI implemented  
+✅ Professional dark premium interface  
+✅ Build system configured with CMake + Ninja  
+✅ Windows executable generated  
+🔄 Next phase: Real Hex Engine + File Analysis
 
 ---
 
@@ -40,45 +47,12 @@ Suite profesional de edición hexadecimal y análisis de ciberseguridad para Win
 
 ---
 
-## Development Status
-
-Current phase: Environment Setup Completed ✅
-
-Next phase: GUI + Hex Engine Development 🔄
-
----
 ## 🛠 Tech Stack
 
 C++ • Qt6 • GCC • CMake • Ninja • MSYS2 • Windows API
----
-
-
-<p align="center">
-
-![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus)
-![Qt6](https://img.shields.io/badge/Qt6-GUI-green?style=for-the-badge&logo=qt)
-![Windows](https://img.shields.io/badge/Windows-Native-blue?style=for-the-badge&logo=windows)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Defensive-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
-</p>
-
-- C++
-- GCC / G++
-- CMake
-- Qt6
-- MSYS2 UCRT64
-- Windows Native Build
 
 ---
-## 🚀 Current Progress
 
-✅ Native desktop application running  
-✅ Qt6 GUI implemented  
-✅ Build system configured with CMake + Ninja  
-✅ Windows executable generated  
-🔄 Next: Real Hex Engine + File Analysis
----
 ## 📍 Roadmap
 
 ### v0.1
@@ -88,19 +62,19 @@ GUI Prototype ✅
 Start Analysis functional
 
 ### v0.3
-Hex Viewer
+Hex Viewer Engine
 
 ### v0.4
-Hash Scanner
+Hash Scanner + File Inspector
 
 ### v1.0
 Professional Release
+
 ---
 
-## Author
+## 👨‍💻 Author
 
-> ⚡ Motto: *"I love what I do, and when I do it, I do it well."*
-
-José Lemus
-
+**José Lemus**  
 Cybersecurity • Systems Engineering • Software Development
+
+> ⚡ *"I love what I do, and when I do it, I do it well."*
